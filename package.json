@@ -6,12 +6,12 @@
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Dustin Farris <dustin@farris.io>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/dustinfarris/ember-aphrodite-local-styles",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
