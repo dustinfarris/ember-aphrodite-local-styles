@@ -3,9 +3,6 @@ machine:
     version: "stable"
 
 dependencies:
-  cache_directories:
-    - $HOME/.npm
-    - $HOME/.cache
   pre:
     - npm config set spin false
     - npm install -g bower
