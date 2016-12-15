@@ -1,5 +1,7 @@
 # ember-aphrodite-local-styles
 
+[![CircleCI](https://circleci.com/gh/dustinfarris/ember-aphrodite-local-styles.svg?style=svg)](https://circleci.com/gh/dustinfarris/ember-aphrodite-local-styles)
+
 Use @mattkrick's fork of [aphrodite](https://github.com/mattkrick/aphrodite) in your Ember application.
 
 
